@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC Cura Health Care</name>
+   <name>Login into salesforce</name>
    <tag></tag>
    <integratedEntity>
       <productName>Azure</productName>
       <properties>
          <entry>
             <key>azure.testcase.ids</key>
-            <value>1865</value>
+            <value>1867</value>
          </entry>
       </properties>
       <type>TESTCASE</type>
    </integratedEntity>
    <comment></comment>
-   <testCaseGuid>f0c5bda4-eab9-4985-8576-a2cd43c133e4</testCaseGuid>
+   <testCaseGuid>dd682f94-a945-4772-bc84-df753d8d518d</testCaseGuid>
 </TestCaseEntity>
