@@ -3,16 +3,6 @@
    <description></description>
    <name>TC Gure99</name>
    <tag></tag>
-   <integratedEntity>
-      <productName>Azure</productName>
-      <properties>
-         <entry>
-            <key>azure.testcase.ids</key>
-            <value>1866</value>
-         </entry>
-      </properties>
-      <type>TESTCASE</type>
-   </integratedEntity>
    <comment></comment>
    <testCaseGuid>7366edbc-0aee-4c79-9df5-df161bb52101</testCaseGuid>
 </TestCaseEntity>
