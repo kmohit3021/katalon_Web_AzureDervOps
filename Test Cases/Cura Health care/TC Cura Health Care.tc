@@ -3,16 +3,6 @@
    <description></description>
    <name>TC Cura Health Care</name>
    <tag></tag>
-   <integratedEntity>
-      <productName>Azure</productName>
-      <properties>
-         <entry>
-            <key>azure.testcase.ids</key>
-            <value>1865</value>
-         </entry>
-      </properties>
-      <type>TESTCASE</type>
-   </integratedEntity>
    <comment></comment>
    <testCaseGuid>f0c5bda4-eab9-4985-8576-a2cd43c133e4</testCaseGuid>
 </TestCaseEntity>
