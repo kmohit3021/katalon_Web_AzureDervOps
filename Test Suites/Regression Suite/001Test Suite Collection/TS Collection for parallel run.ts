@@ -3,9 +3,18 @@
    <description></description>
    <name>TS Collection for parallel run</name>
    <tag></tag>
-   <executionMode>PARALLEL</executionMode>
+   <executionMode>SEQUENTIAL</executionMode>
    <maxConcurrentInstances>2</maxConcurrentInstances>
    <testSuiteRunConfigurations>
+      <TestSuiteRunConfiguration>
+         <configuration>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </configuration>
+         <runEnabled>true</runEnabled>
+         <testSuiteEntity>Test Suites/Regression Suite/Login into salesforce application</testSuiteEntity>
+      </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Desktop</groupName>
