@@ -6,7 +6,6 @@
    <UUID>4af63ea2-b97a-4552-a739-4e1b7159fbde</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/katalon/My_Source_Code/KatalonStudio/Katalon_Web_AzureDevops/Katalon_Web_AzureDevops.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
