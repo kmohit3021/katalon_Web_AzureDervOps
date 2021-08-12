@@ -4,7 +4,7 @@
    <name>TS Collection for parallel run</name>
    <tag></tag>
    <executionMode>PARALLEL</executionMode>
-   <maxConcurrentInstances>2</maxConcurrentInstances>
+   <maxConcurrentInstances>3</maxConcurrentInstances>
    <testSuiteRunConfigurations>
       <TestSuiteRunConfiguration>
          <configuration>

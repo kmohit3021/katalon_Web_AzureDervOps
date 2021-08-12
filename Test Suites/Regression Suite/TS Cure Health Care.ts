@@ -12,7 +12,7 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>fac59bb5-c237-4ccb-8fe9-0765ef3e04aa</testSuiteGuid>
    <testCaseLink>
-      <guid>90d79f5f-bb93-4290-b7d1-396d65b8f323</guid>
+      <guid>6e1162db-0789-4f48-8e33-203f61827612</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Cura Health care/TC Cura Health Care</testCaseId>

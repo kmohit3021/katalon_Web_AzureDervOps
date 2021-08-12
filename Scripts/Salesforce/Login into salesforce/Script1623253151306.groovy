@@ -1,4 +1,6 @@
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.model.FailureHandling.CONTINUE_ON_FAILURE
+import static com.kms.katalon.core.model.FailureHandling.STOP_ON_FAILURE
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
@@ -21,6 +23,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://login.salesforce.com/')
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/OR Salesforce/Page_Login  Salesforce/input_Username_username'), 'tetsuser')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/OR Salesforce/Page_Login  Salesforce/input_Password_pw'), '5NlMFRvHAa63JR5mc7hi7Q==')
@@ -36,7 +40,7 @@ WebUI.setText(findTestObject('Object Repository/OR Salesforce/Page_Forgot Your P
 
 WebUI.click(findTestObject('Object Repository/OR Salesforce/Page_Forgot Your Password  Salesforce/input_Username_continue'))
 
-WebUI.verifyElementText(findTestObject('Page_Forgot Your Password  Salesforce/h2_Forgot Your Password'), 'Forgot Your Password11')
+WebUI.verifyElementText(findTestObject('OR Salesforce/Page_Login  Salesforce/input_Username_username'), 'Forgot Your Password11')
 
 WebUI.closeBrowser()
 

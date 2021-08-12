@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Username_username</name>
    <tag></tag>
-   <elementGuidId>487934d1-4283-4777-8845-7f6227c19bfa</elementGuidId>
+   <elementGuidId>9e041d6f-b7f2-427f-ac2e-f3ba58485f36</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='txt-username']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#txt-username</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='txt-username']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

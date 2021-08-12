@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Login</name>
    <tag></tag>
-   <elementGuidId>62a60e91-5f35-4831-b031-b305f1d4992d</elementGuidId>
+   <elementGuidId>e0b1a6cf-daa6-4737-887c-f1baa2663968</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(//a[@onclick=&quot;$('#menu-close').click();&quot;])[3]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick=&quot;$('#menu-close').click();&quot;])[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
