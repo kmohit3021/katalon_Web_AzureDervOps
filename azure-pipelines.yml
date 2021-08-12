@@ -8,4 +8,4 @@ steps:
 - task: katalonTask@0
   inputs:
     version: '8.0.1'
-    executeArgs: '-browserType="Firefox" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Regression Suite/TS Cure Health Care" -apiKey="ac0360a1-d23b-4b80-b61f-c5291b4cc878"'
+    executeArgs: '-browserType="Chrome" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Regression Suite/TS Cure Health Care" -apiKey="ac0360a1-d23b-4b80-b61f-c5291b4cc878"'
