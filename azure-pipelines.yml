@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'macOS-11'
+  vmImage: 'vs2017-win2016'
 
 steps: 
 - task: katalonTask@1
